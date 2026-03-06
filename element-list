@@ -1,0 +1,17 @@
+Main
+Main.Animation
+Main.Button
+Main.Cookies
+Main.GameLogic
+Main.Image
+Main.ObjectInGame
+Main.ObjectInGame.Items
+Main.ObjectInGame.Jelly
+Main.ObjectInGame.Obstacle
+Main.Pets
+Main.Scene
+Main.UI.CookiesUI
+Main.UI.GameOverUI
+Main.UI.InGameUI
+Main.UI.MainMenuUI
+Main.UI.PetsUI
